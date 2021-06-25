@@ -9,7 +9,6 @@
   <a href="https://www.instagram.com/_bhawanatiwari_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="bhawana tiwari" height="30" width="40" /></a>
  <a href = "mailto: bhawanatiwari888@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhawana15&label=Profile%20views&color=0e75b6&style=flat" alt="Bhawana15" /> </p>
 <img align="right" width=400px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
