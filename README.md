@@ -52,7 +52,7 @@
 <hr>
 
 ### About my Internship
-✔ I am writing **smart contracts in Flow** Blockchain's resource oriented programming language Cadence<br>
+✔ I am writing smart contracts in Flow Blockchain's resource oriented programming language Cadence<br>
 ✔ I added a smart contract to conduct Auction in the Flow's Kitty Items project. Check [here](https://github.com/Bhawana15/Kitty-Auction-House)<br>
 ✔ I edited Flow's standard Marketplace contract to allow user to filter NFT's according to the lowest price, latest time and various categories. Check [here](https://github.com/Bhawana15/kitty-items)<br>
 
