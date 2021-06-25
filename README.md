@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bhawana Tiwari</h1>
 <h3 align="center">Daughter | Learner | Developer</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/bhawanatiwari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhawanatiwari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Bhawana15" height="30" width="40" /></a>
  <a href="https://www.codechef.com/users/bhawana_15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="Bhawana15" height="30" width="40" /></a>
-<a href="https://leetcode.com/bhawana_tiwari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+<a href="https://leetcode.com/bhawana_tiwari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Bhawana15" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/_bhawana15_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Bhawana15" height="30" width="40" /></a>
   <a href="https://www.facebook.com/bhawana.tiwari.5621149" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bhawana tiwari" height="30" width="40" /></a>
   <a href="https://www.instagram.com/_bhawanatiwari_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="bhawana tiwari" height="30" width="40" /></a>
@@ -17,9 +17,9 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ I am trying to create Dapps using **Flow Blockchain** as a Blockchain Intern at Rapid Innovation<br>
-✔ I’m currently learning [React](https://github.com/Bhawana15/learning-React)<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
+✔ I’m currently learning **React**. Check [here](https://github.com/Bhawana15/learning-React)<br>
 ✔ I practice Data Structures on [leetcode](https://leetcode.com/bhawana_tiwari/), [codechef](https://www.codechef.com/users/bhawana_15/) and [codeforces](https://codeforces.com/profile/_bhawana15_) <br>
+✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ 2021 Goals: Take part in Competitive Coding Contests and increase my ratings<br>
 ✔ *Fun fact: I love to write, teach and cook.*<br><br><br><br>
 
@@ -52,7 +52,7 @@
 <hr>
 
 ### About my Internship
-✔ I am writing smart contracts in Flow Blockchain's resource oriented programming language Cadence<br>
+✔ I am writing **smart contracts in Flow** Blockchain's resource oriented programming language **Cadence**<br>
 ✔ I added a smart contract to conduct Auction in the Flow's Kitty Items project. Check [here](https://github.com/Bhawana15/Kitty-Auction-House)<br>
 ✔ I edited Flow's standard Marketplace contract to allow user to filter NFT's according to the lowest price, latest time and various categories. Check [here](https://github.com/Bhawana15/kitty-items)<br>
 
