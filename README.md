@@ -18,7 +18,7 @@
 
 ✔ I am trying to create Dapps using **Flow Blockchain** as a Blockchain Intern at Rapid Innovation<br>
 ✔ I’m currently learning **React**. Check [here](https://github.com/Bhawana15/learning-React)<br>
-✔ I practice Data Structures on [leetcode](https://leetcode.com/bhawana_tiwari/), [codechef](https://www.codechef.com/users/bhawana_15/) and [codeforces](https://codeforces.com/profile/_bhawana15_) <br>
+✔ I practice Data Structures on [leetcode](https://leetcode.com/bhawana_tiwari/), [codechef](https://www.codechef.com/users/bhawana_15/) & [codeforces](https://codeforces.com/profile/_bhawana15_) <br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ 2021 Goals: Take part in Competitive Coding Contests and increase my ratings<br>
 ✔ *Fun fact: I love to write, teach and cook.*<br><br><br><br>
