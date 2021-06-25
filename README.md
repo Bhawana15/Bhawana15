@@ -41,15 +41,15 @@
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ethereum/ethereum.png"></code>
   <br>
   
-  <hr>
+ <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
- 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhawana15&show_icons=true&locale=en&layout=compact" alt="Bhawana15" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhawana15&show_icons=true&locale=en" alt="Bhawana15" width="410" /></p>
-<hr>
 
+<hr>
+ 
 ### About my Internship
 ✔ I am writing smart contracts in Flow Blockchain's resource oriented programming language Cadence<br>
 ✔ I added a smart contract to conduct Auction in the Flow's Kitty Items project. Check [here](https://github.com/Bhawana15/Kitty-Auction-House)<br>
