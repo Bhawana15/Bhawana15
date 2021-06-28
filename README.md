@@ -42,11 +42,11 @@
   <br>
   
  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p align="center">
+<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhawana15&show_icons=true&locale=en&layout=compact" alt="Bhawana15" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhawana15&show_icons=true&locale=en" alt="Bhawana15" width="410" /></p>
+![Bhawana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhawana15&count_private=true)
 
 <hr>
  
@@ -54,5 +54,20 @@
 ✔ I am writing smart contracts in Flow Blockchain's resource oriented programming language Cadence<br>
 ✔ I added a smart contract to conduct Auction in the Flow's Kitty Items project. Check [here](https://github.com/Bhawana15/Kitty-Auction-House)<br>
 ✔ I edited Flow's standard Marketplace contract to allow user to filter NFT's according to the lowest price, latest time and various categories. Check [here](https://github.com/Bhawana15/kitty-items)<br>
+
+<details>
+<summary>
+ <b>Projects I am currently working on</b>
+</summary>
+
+<br />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhawana15&repo=Kitty-Auction-House)](https://github.com/Bhawana15/Kitty-Auction-House)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhawana15&repo=kitty-items)](https://github.com/Bhawana15/kitty-items)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhawana15&repo=learning-React)](https://github.com/Bhawana15/learning-React)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhawana15&repo=voting_dapp)](https://github.com/Bhawana15/voting_dapp)
+
+<br />
+</details>
 
 ---
