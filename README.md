@@ -1,5 +1,5 @@
 <h1 align="center">Hi there !!!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">Developer | Tech Enthusiast | Competitive Coder</h3>
+<h3 align="center">Blockchain Developer | Tech Enthusiast | Competitive Coder</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/bhawanatiwari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Bhawana15" height="30" width="40" /></a>
  <a href="https://www.codechef.com/users/bhawana_15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="Bhawana15" height="30" width="40" /></a>
@@ -15,7 +15,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about my professional works...***
 
-✔ I am creating Dapps using **Flow Blockchain**<br>
+✔ I am working on Cosmos, Golang, gRPC to enable Inter-Blockchain Communication.<br>
 ✔ I’m also working on **React**. Check [here](https://github.com/Bhawana15/learning-React)<br>
 ✔ My profiles on [Leetcode](https://leetcode.com/bhawana_tiwari/), [Codechef](https://www.codechef.com/users/bhawana_15/) & [Codeforces](https://codeforces.com/profile/_bhawana15_) <br>
 
@@ -63,7 +63,7 @@
 <hr>
  
 ### About my Internship
-✔ I am writing smart contracts in Flow Blockchain's resource oriented programming language Cadence<br>
+✔ I am writing smart contracts in **Flow Blockchain's** resource oriented programming language Cadence<br>
 ✔ I added a smart contract to conduct Auction in the Flow's Kitty Items project. Check [here](https://github.com/Bhawana15/Kitty-Auction-House)<br>
 ✔ I edited Flow's standard Marketplace contract to allow users to filter NFT's according to lowest price, latest time & their types. Check [here](https://github.com/Bhawana15/kitty-items)<br>
 
